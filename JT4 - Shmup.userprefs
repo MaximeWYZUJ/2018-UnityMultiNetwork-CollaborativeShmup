@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AssetsDuJeu\PlayerControlToPrefab.cs">
+    <Files>
+      <File FileName="Assets\PlaneteScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\AssetsDuJeu\PlayerControlToPrefab.cs" Line="34" Column="87" />
+      <File FileName="Assets\AssetsDuJeu\MissileScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\AssetsDuJeu\VaisseauScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\TextNameScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\ParticleMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\AssetsDuJeu\scrPlayerMan.cs" Line="17" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
